@@ -1,6 +1,6 @@
-## Hi there 👋
+# Hi there 👋
 
-# 💫 About Me:
+## 💫 About Me:
 Hey, I’m a Computer Science student who genuinely loves coding and building random ideas into real projects.<br><br>I started programming at 12 trying to make games, and ever since then I’ve been hooked on creating things and figuring out how they work. If I see something interesting, there’s a good chance I’ll try to recreate it just for the challenge and fun of it.<br><br>I mainly work with Java and Python, and I’m always excited to learn new technologies, build cool projects, and keep improving as a developer.
 
 
